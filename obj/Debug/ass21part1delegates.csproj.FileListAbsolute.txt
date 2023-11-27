@@ -1,0 +1,7 @@
+D:\mphasis\assignments\Day16\Assignment21\ass21part1delegates\ass21part1delegates\bin\Debug\ass21part1delegates.exe.config
+D:\mphasis\assignments\Day16\Assignment21\ass21part1delegates\ass21part1delegates\bin\Debug\ass21part1delegates.exe
+D:\mphasis\assignments\Day16\Assignment21\ass21part1delegates\ass21part1delegates\bin\Debug\ass21part1delegates.pdb
+D:\mphasis\assignments\Day16\Assignment21\ass21part1delegates\ass21part1delegates\obj\Debug\ass21part1delegates.csproj.AssemblyReference.cache
+D:\mphasis\assignments\Day16\Assignment21\ass21part1delegates\ass21part1delegates\obj\Debug\ass21part1delegates.csproj.CoreCompileInputs.cache
+D:\mphasis\assignments\Day16\Assignment21\ass21part1delegates\ass21part1delegates\obj\Debug\ass21part1delegates.exe
+D:\mphasis\assignments\Day16\Assignment21\ass21part1delegates\ass21part1delegates\obj\Debug\ass21part1delegates.pdb
